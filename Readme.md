@@ -1,4 +1,21 @@
-# Hallo! 👋 / Bonjour! 👋 🇳🇱🇫🇷
+# Hallo! 👋 / Bonjour! 👋 / Hi! 👋 🇳🇱🇫🇷en
+
+I am **Samia Hajji**, a first-year programming student at **Erasmus University College Brussels**. I am passionate about **software development** and learning new technologies.
+
+After completing a degree in **Accounting Administration**, I realized that this field was not the right fit for me. I decided to switch to **programming**, where I discovered my true passion. I enjoy creating, learning, and taking on new challenges.
+
+## My goal
+
+To obtain my degree in programming and build a stable and rewarding career in software development, while continuously improving my skills.
+
+## Contact
+
+- 📧 Email: hajjisamia10@gmail.com  
+- 🔗 LinkedIn: [Samia Hajji](https://www.linkedin.com/in/samia-hajji-048859259/)
+
+I am always open to learning, networking, and future opportunities.
+
+---
 
 Ik ben **Samia Hajji**, eerstejaars programmeerstudent aan de **Erasmushogeschool Brussel**. Ik ben gepassioneerd door **softwareontwikkeling** en het leren van nieuwe technologieën.  
 
