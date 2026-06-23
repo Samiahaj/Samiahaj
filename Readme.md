@@ -1,4 +1,4 @@
-# Hallo! 👋 / Bonjour! 👋 / Hi! 👋 
+# Hi! 👋 /Hallo! 👋 / Bonjour! 👋
 
 I am **Samia Hajji**, a first-year programming student at **Erasmus University College Brussels**. I am passionate about **software development** and learning new technologies.
 
